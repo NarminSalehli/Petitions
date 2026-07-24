@@ -56,7 +56,8 @@ DetailViewController
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-07-24 at 15 06 22" src="https://github.com/user-attachments/assets/cebf8618-56e8-4d1c-91f1-7293347eddf5" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-07-24 at 15 06 43" src="https://github.com/user-attachments/assets/76a1fac4-4332-42ad-a8c2-9a03b18e894e" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-07-24 at 15 06 57" src="https://github.com/user-attachments/assets/fe3735b6-fb11-432d-8f74-bc3e31b98174" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-07-24 at 15 07 14" src="https://github.com/user-attachments/assets/d697d94a-67da-4f1f-b5c3-d84c652187e1" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-07-24 at 15 08 44" src="https://github.com/user-attachments/assets/69de54d9-e66b-4ae1-ae58-41005c6521ac" />
+
 
 
 
